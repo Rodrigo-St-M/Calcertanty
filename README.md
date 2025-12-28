@@ -1,7 +1,7 @@
 # Calcertanty
 PT-PT
 Calcertanty é uma aplicação gráfica que permite calcular propagação de incertezas.
-Ainda em fase de desenvolvimento.
+Ainda em fase de desenvolvimento, projeto está em pausa.
 Requer java versão 21.0.4 para funcionar normalmente.
 Feita por Rodrigo Sta. Marta.
 
